@@ -1,6 +1,0 @@
-streamlit
-openai
-pandas
-transformers
-langchain
-sentence-transformers
