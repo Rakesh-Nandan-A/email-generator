@@ -4,3 +4,5 @@ pandas
 transformers
 langchain
 sentence-transformers
+langchain-community
+python-dotenv
